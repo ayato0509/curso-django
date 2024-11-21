@@ -29,9 +29,16 @@ Este repositório contém o código-fonte do curso de Django, onde exploramos:
 1. **Clone o repositório**:
    ```bash
    git clone https://github.com/ayato0509/curso-django.git
-   cd curso-django
+   cd curso-django 
+   ```
 
-   ---
+    ## 📝 Como Configurar o Projeto
+
+    ### 1. Crie um ambiente virtual:
+    ```bash
+        python -m venv venv
+        source venv/bin/activate # No Windows: venv\Scripts\activate
+    ```
 
 ## 🛡️ **Licença**
 Este projeto está sob a licença MIT. Sinta-se à vontade para usar, modificar e distribuir este código.
